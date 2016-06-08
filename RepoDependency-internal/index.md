@@ -1,1 +1,1 @@
-# Index test file for Open Publishing updated again.
+# Index test file for Open Publishing remove dependent.
