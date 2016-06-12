@@ -1,1 +1,1 @@
-# Index test file for Open Publishing updated.
+# Index test file for Open Publishing updated again.
