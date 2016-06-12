@@ -1,1 +1,1 @@
-# Index test file for Open Publishing update again.
+# Index test file for Open Publishing remove.
