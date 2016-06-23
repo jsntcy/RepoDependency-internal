@@ -1,1 +1,1 @@
-# Index test file for Open Publishing remove.
+# Index test file for Open Publishing dependency.
